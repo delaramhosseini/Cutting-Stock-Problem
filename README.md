@@ -1,4 +1,4 @@
-# Cutting Stock Problem
+# Cutting Stock Problem with genetic algorithm
 
 This project uses a genetic algorithm for Cutting Stock Optimization.
 

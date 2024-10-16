@@ -12,7 +12,7 @@ The Cutting Stock Problem is a classic optimization problem where the objective 
 
 A genetic algorithm (GA) is a heuristic search and optimization technique inspired by the process of natural selection and genetics in biological evolution. It is used to find approximate solutions to optimization and search problems, particularly in cases where the solution space is vast and complex.
 
-## Key Concepts of Genetic Algorithms:
+### Key Concepts of Genetic Algorithms:
 - **Population:** A set of potential solutions (called chromosomes or individuals) to the problem. Each individual is typically represented as a string (or array) of genes.
 - **Selection:** A process of choosing the fittest individuals from the current population to create offspring for the next generation. The fitter the individual, the higher its chance of being selected.
 - **Crossover:** Also known as recombination, crossover is the process of combining two parent solutions to produce new offspring. This mimics the biological process of reproduction and promotes the inheritance of good traits from both parents.
@@ -20,7 +20,7 @@ A genetic algorithm (GA) is a heuristic search and optimization technique inspir
 - **Fitness Function:** A function that evaluates how well an individual solves the problem at hand. The fitness score determines the probability of an individual being selected for reproduction.
 - **Generations:** The algorithm evolves through generations, each time producing a new population of individuals. Over successive generations, the population "evolves" towards better solutions.
 
-## Advantages of Genetic Algorithms:
+### Advantages of Genetic Algorithms:
 - **Global Search:** GA explores a wide solution space, making it effective for finding global optima in complex problems.
 - **Adaptability:** GA can handle a variety of problems, including those with non-linear, non-differentiable, or highly constrained solution spaces.
 - **Parallelism:** The population-based approach allows multiple solutions to be explored simultaneously, speeding up the search process.
